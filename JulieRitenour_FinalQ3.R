@@ -1,0 +1,6 @@
+myCourses <- c("MATH 101", "SCI 101", "ENG 101", "HIS 101", "MATH 102", "SCI 102", "ENG 102", "HIS 102")
+print(length(myCourses))
+print(myCourses[c(1,2)])
+print(myCourses[c(3,4)])
+print(sort(myCourses))
+print(sort(myCourses, decreasing = TRUE))
